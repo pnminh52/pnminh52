@@ -3,6 +3,7 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,codepen,figma,firebase,github,git,gmail,gitlab,mongodb,nodejs,npm,postman,powershell,react,redux,stackoverflow,tailwind,svg,ts,vercel,vite,vscode,laravel,mysql,php,bitbucket,angular" class="github-icon" />
   </a>
+</p>
 <!-- </p>
 <p align="left">
   <img src="https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E " />
