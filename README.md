@@ -3,7 +3,7 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,codepen,figma,firebase,github,git,gmail,gitlab,mongodb,nodejs,npm,postman,powershell,react,redux,stackoverflow,tailwind,svg,ts,vercel,vite,vscode,laravel,mysql,php,bitbucket,angular" class="github-icon" />
   </a>
-</p>
+<!-- </p>
 <p align="left">
   <img src="https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E " />
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
@@ -36,7 +36,7 @@
   <img src="https://img.shields.io/badge/Windows_XP-003399?style=for-the-badge&logo=windows-xp&logoColor=white" />
   <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" /> -->
 </p>
 <!-- <p align="center">
   <img src="https://static.tvtropes.org/pmwiki/pub/images/img_2747.jpeg" width="500" />
