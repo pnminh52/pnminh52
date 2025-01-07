@@ -2,7 +2,7 @@
 <p align="center">
     <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,codepen,figma,firebase,github,git,gmail,gitlab,mongodb,nodejs,npm,postman,powershell,react,redux,stackoverflow,tailwind,svg,ts,vercel,vite,vscode,laravel,mysql,php,bitbucket,angular" class="github-icon" />
 </p>
-<p align="center">
+<!-- <p align="center">
   <img src="https://static.tvtropes.org/pmwiki/pub/images/img_2747.jpeg" width="500" />
-</p>
+</p> -->
 
